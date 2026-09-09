@@ -5388,3 +5388,1031 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.09-00.42.03:891][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.09.09-00.42.03:901][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
 [2026.09.09-00.42.03:997][111]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.09.09-00.48.16:201][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8168.013184
+[2026.09.09-00.48.16:503][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.09-00.48.16:503][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8168.299316, Update Interval: 326.801971
+[2026.09.09-00.48.18:347][930]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.09.09-00.48.18:385][930]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.09.09-00.48.18:406][931]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.09.09-00.48.24:125][275]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Steer
+[2026.09.09-00.48.24:126][275]LogContentBrowser: End creating deferred item NewInputAction
+[2026.09.09-00.49.05:337][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.09.09-00.49.05:339][704]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Variant_Timetrial/Maps/NewMap' took 0.058
+[2026.09.09-00.49.05:341][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Steer] ([1] browsable assets)...
+[2026.09.09-00.49.05:341][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Steer]
+[2026.09.09-00.49.05:348][704]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IA_Steer_Auto7
+[2026.09.09-00.49.05:348][704]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/IA_Steer_Auto7B1A6E8534D51C332189097A7184552C5.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Autosaves/Game/Input/IA_Steer_Auto7.uasset'
+[2026.09.09-00.49.05:350][704]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.09.09-00.51.31:675][826]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Steer.IA_Steer
+[2026.09.09-00.51.36:692][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-00.51.36:756][ 84]LogFileHelpers: Saving Package: /Game/Input/IA_Steer
+[2026.09.09-00.51.36:756][ 84]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Steer] ([1] browsable assets)...
+[2026.09.09-00.51.36:756][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Steer]
+[2026.09.09-00.51.36:756][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Steer" FILE="../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/Input/IA_Steer.uasset" SILENT=true
+[2026.09.09-00.51.36:765][ 84]LogSavePackage: Moving output files for package: /Game/Input/IA_Steer
+[2026.09.09-00.51.36:765][ 84]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/IA_Steer1C45078C4BDE0490209EA3B964336CF6.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/Input/IA_Steer.uasset'
+[2026.09.09-00.51.36:775][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.748 ms (total: 13.6 sec)
+[2026.09.09-00.51.36:844][ 84]LogContentValidation: Enabled validators:
+[2026.09.09-00.51.36:844][ 84]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-00.51.36:844][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-00.51.36:844][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-00.51.36:844][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-00.51.36:844][ 84]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-00.51.36:844][ 84]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-00.51.36:845][ 84]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-00.51.36:845][ 84]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-00.51.36:845][ 84]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-00.51.36:845][ 84]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-00.51.36:845][ 84]LogContentValidation: Ativos adicionais adicionados para validação por validadores 0:
+[2026.09.09-00.51.36:845][ 84]AssetCheck: /Game/Input/IA_Steer Validando ativo
+[2026.09.09-00.51.36:845][ 84]LogContentValidation: Contagem de ativos validados para validadores 9:
+[2026.09.09-00.51.36:845][ 84]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-00.51.36:845][ 84]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-00.51.36:845][ 84]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-00.51.36:845][ 84]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-00.51.36:845][ 84]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-00.51.36:845][ 84]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-00.51.36:845][ 84]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-00.51.36:845][ 84]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-00.51.36:845][ 84]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-00.51.36:877][ 84]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.09-00.51.53:904][466]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Vehicle.IMC_Vehicle
+[2026.09.09-00.54.13:795][888]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.09-00.54.13:795][888]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.09-00.54.13:795][888]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.09-00.54.13:795][888]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.09-00.54.13:795][888]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.09.09-00.54.26:071][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-00.54.26:141][540]LogFileHelpers: Saving Package: /Game/Input/IMC_Vehicle
+[2026.09.09-00.54.26:141][540]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Vehicle] ([1] browsable assets)...
+[2026.09.09-00.54.26:141][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Vehicle]
+[2026.09.09-00.54.26:141][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Vehicle" FILE="../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/Input/IMC_Vehicle.uasset" SILENT=true
+[2026.09.09-00.54.26:152][540]LogSavePackage: Moving output files for package: /Game/Input/IMC_Vehicle
+[2026.09.09-00.54.26:154][540]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/IMC_Vehicle4CBFB6E04DA4FA1DB89412B320B95EB6.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/Input/IMC_Vehicle.uasset'
+[2026.09.09-00.54.26:168][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.650 ms (total: 13.7 sec)
+[2026.09.09-00.54.26:249][540]LogContentValidation: Enabled validators:
+[2026.09.09-00.54.26:249][540]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-00.54.26:249][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-00.54.26:249][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-00.54.26:249][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-00.54.26:249][540]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-00.54.26:249][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-00.54.26:249][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-00.54.26:249][540]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-00.54.26:249][540]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-00.54.26:249][540]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-00.54.26:249][540]LogContentValidation: Ativos adicionais adicionados para validação por validadores 0:
+[2026.09.09-00.54.26:249][540]AssetCheck: /Game/Input/IMC_Vehicle Validando ativo
+[2026.09.09-00.54.26:249][540]LogContentValidation: Contagem de ativos validados para validadores 9:
+[2026.09.09-00.54.26:249][540]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-00.54.26:249][540]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-00.54.26:249][540]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-00.54.26:249][540]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-00.54.26:250][540]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-00.54.26:250][540]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-00.54.26:250][540]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-00.54.26:250][540]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-00.54.26:250][540]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-00.54.41:085][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8552.835938
+[2026.09.09-00.54.42:085][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.09-00.54.42:085][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8553.506836, Update Interval: 349.196442
+[2026.09.09-00.54.54:535][776]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.09-00.54.55:036][776]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.09-00.54.55:538][776]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.09-00.54.56:039][776]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.09-00.54.56:541][776]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.09-00.54.57:041][776]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.09-00.54.57:543][776]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.09-00.54.58:044][776]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.09-00.54.58:545][776]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.09-00.54.59:048][776]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.09.09-00.54.59:549][776]LogFileManager: Error: Error moving file '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/EditorPerProjectUserSettings4551CDA94D342BC1E3B82981675F0664.tmp' to 'C:/Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2026.09.09-00.58.53:655][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-00.58.53:725][316]LogFileHelpers: Saving Package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-00.58.53:725][316]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics] ([2] browsable assets)...
+[2026.09.09-00.58.53:760][316]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics]
+[2026.09.09-00.58.53:760][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics]
+[2026.09.09-00.58.53:788][316]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-00.58.53:789][316]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/BP_KartPhysics15F493554B705CEE7869CDB0ED64695A.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/VehicleTemplate/NewCarsBP/BP_KartPhysics.uasset'
+[2026.09.09-00.58.53:805][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.968 ms (total: 13.8 sec)
+[2026.09.09-00.58.53:882][316]LogContentValidation: Enabled validators:
+[2026.09.09-00.58.53:882][316]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-00.58.53:882][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-00.58.53:882][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-00.58.53:882][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-00.58.53:882][316]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-00.58.53:882][316]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-00.58.53:882][316]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-00.58.53:882][316]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-00.58.53:882][316]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-00.58.53:882][316]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-00.58.53:882][316]LogContentValidation: Ativos adicionais adicionados para validação por validadores 0:
+[2026.09.09-00.58.53:882][316]AssetCheck: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics Validando ativo
+[2026.09.09-00.58.53:884][316]LogContentValidation: Contagem de ativos validados para validadores 9:
+[2026.09.09-00.58.53:884][316]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-00.58.53:884][316]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-00.58.53:884][316]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-00.58.53:884][316]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-00.58.53:884][316]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-00.58.53:884][316]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-00.58.53:884][316]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-00.58.53:884][316]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-00.58.53:884][316]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-00.58.54:531][348]LogBlueprint: Compiling Blueprint '/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics'
+[2026.09.09-00.58.54:690][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2026.09.09-00.59.11:272][182]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.09.09-00.59.11:282][182]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.09-00.59.11:282][182]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.09.09-00.59.11:286][182]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 3.334 ms (total: 35.773 ms)
+[2026.09.09-00.59.11:286][182]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.09-00.59.11:286][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.09-00.59.11:286][182]LogPlayLevel: Creating play world package: /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-00.59.11:294][182]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.09-00.59.11:294][182]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 437 us (total: 4.717 ms)
+[2026.09.09-00.59.11:295][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008945s)
+[2026.09.09-00.59.11:295][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Timetrial/Maps/NewMap.NewMap to /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap (0.008994s)
+[2026.09.09-00.59.11:344][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2026.09.09-00.59.11:348][182]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.09.09-00.59.11:350][182]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.09-00.59.11:351][182]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-00.59.11:351][182]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-00.59.11:351][182]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.09-00.59.11:353][182]LogWorldPartition: Display: WorldPartition initialize took 2.369 ms (total: 1.41 sec)
+[2026.09.09-00.59.11:354][182]LogPlayLevel: PIE: World Init took: (0.005302s)
+[2026.09.09-00.59.11:354][182]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.09.09-00.59.11:354][182]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.09-00.59.11:354][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.09-00.59.11:354][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.09-00.59.11:354][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.09-00.59.11:354][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.09-00.59.11:354][182]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.09-00.59.11:354][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.09-00.59.11:354][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.09-00.59.11:354][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.09-00.59.11:354][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.09-00.59.11:354][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.09-00.59.11:354][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.09-00.59.11:354][182]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.09-00.59.11:366][182]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-00.59.11:368][182]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-00.59.11:370][182]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-00.59.11:371][182]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-00.59.11:375][182]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-00.59.11:376][182]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-00.59.11:382][182]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.09-00.59.11:382][182]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.09-00.59.11:382][182]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.09-00.59.11:383][182]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.09-00.59.11:388][182]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.09.09-00.59.11:388][182]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.09-00.59.11:388][182]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.09-00.59.11:388][182]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2026.09.09-00.59.11:388][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.09-00.59.11:389][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.09-00.59.11:389][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.09-00.59.11:390][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.09.09-00.59.11:393][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.09.09-00.59.11:396][182]LogInit: FAudioDevice initialized with ID 19.
+[2026.09.09-00.59.11:396][182]LogAudio: Display: Audio Device (ID: 19) registered with world 'NewMap'.
+[2026.09.09-00.59.11:397][182]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.09.09-00.59.11:397][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-00.59.11:401][182]LogLoad: Game class is 'GM_Kart_C'
+[2026.09.09-00.59.11:402][182]LogWorld: Bringing World /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2026.09.08-21.59.11
+[2026.09.09-00.59.11:402][182]LogWorld: Bringing up level for play took: 0.000859
+[2026.09.09-00.59.11:405][182]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.09.09-00.59.11:406][182]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.09-00.59.11:418][182]LogStreaming: Display: FlushAsyncLoading(1421,1420,1419,1418,1417,1416,1415,1414,1413,1412,1411,1410,1409,1408,1407,1406,1405,1404,1403,1402,1401,1400,1399,1398,1397,1396,1395,1394,1393,1392,1391,1390,1389,1388,1387,1386,1385,1384,1383,1382,1381,1380,1379,1378): 44 QueuedPackages, 0 AsyncPackages
+[2026.09.09-00.59.11:711][182]PIE: Servidor conectado
+[2026.09.09-00.59.11:714][182]PIE: Tempo inicial total de reprodução no editor: 0,432 s
+[2026.09.09-00.59.11:800][183]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.09-00.59.36:065][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-00.59.36:065][622]LogWorld: BeginTearingDown for /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-00.59.36:076][622]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-00.59.36:077][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-00.59.36:077][622]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap
+[2026.09.09-00.59.36:080][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.09-00.59.36:089][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-00.59.36:173][622]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.09.09-00.59.36:173][622]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.09.09-00.59.36:174][622]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=19, StreamState=4
+[2026.09.09-00.59.36:182][622]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.09-00.59.36:188][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-00.59.36:197][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.09.09-00.59.36:299][623]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.09.09-00.59.54:251][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-00.59.54:333][585]LogFileHelpers: Saving Package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-00.59.54:333][585]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics] ([2] browsable assets)...
+[2026.09.09-00.59.54:347][585]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics]
+[2026.09.09-00.59.54:347][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics]
+[2026.09.09-00.59.54:372][585]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-00.59.54:372][585]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/BP_KartPhysicsECB5C7A54657A9B0A78AE2BFF1212843.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/VehicleTemplate/NewCarsBP/BP_KartPhysics.uasset'
+[2026.09.09-00.59.54:383][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.532 ms (total: 14.0 sec)
+[2026.09.09-00.59.54:456][585]LogContentValidation: Enabled validators:
+[2026.09.09-00.59.54:456][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-00.59.54:456][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-00.59.54:456][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-00.59.54:456][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-00.59.54:456][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-00.59.54:456][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-00.59.54:456][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-00.59.54:456][585]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-00.59.54:456][585]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-00.59.54:456][585]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-00.59.54:456][585]LogContentValidation: Ativos adicionais adicionados para validação por validadores 0:
+[2026.09.09-00.59.54:457][585]AssetCheck: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics Validando ativo
+[2026.09.09-00.59.54:457][585]LogContentValidation: Contagem de ativos validados para validadores 9:
+[2026.09.09-00.59.54:457][585]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-00.59.54:457][585]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-00.59.54:457][585]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-00.59.54:457][585]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-00.59.54:457][585]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-00.59.54:457][585]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-00.59.54:457][585]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-00.59.54:457][585]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-00.59.54:457][585]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-00.59.54:967][611]LogBlueprint: Compiling Blueprint '/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics'
+[2026.09.09-00.59.55:101][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.09.09-00.59.59:051][819]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.09.09-00.59.59:060][819]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.09-00.59.59:060][819]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.09.09-00.59.59:063][819]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 2.954 ms (total: 38.727 ms)
+[2026.09.09-00.59.59:063][819]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.09-00.59.59:063][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.09-00.59.59:063][819]LogPlayLevel: Creating play world package: /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-00.59.59:074][819]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.09-00.59.59:074][819]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 474 us (total: 5.191 ms)
+[2026.09.09-00.59.59:075][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010584s)
+[2026.09.09-00.59.59:075][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Timetrial/Maps/NewMap.NewMap to /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap (0.010636s)
+[2026.09.09-00.59.59:122][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2026.09.09-00.59.59:126][819]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.09.09-00.59.59:128][819]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.09-00.59.59:128][819]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-00.59.59:128][819]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-00.59.59:128][819]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.09-00.59.59:131][819]LogWorldPartition: Display: WorldPartition initialize took 2.481 ms (total: 1.41 sec)
+[2026.09.09-00.59.59:131][819]LogPlayLevel: PIE: World Init took: (0.005209s)
+[2026.09.09-00.59.59:131][819]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.09.09-00.59.59:131][819]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.09-00.59.59:131][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.09-00.59.59:131][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.09-00.59.59:131][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.09-00.59.59:131][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.09-00.59.59:131][819]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.09-00.59.59:131][819]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.09-00.59.59:131][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.09-00.59.59:131][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.09-00.59.59:131][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.09-00.59.59:131][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.09-00.59.59:131][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.09-00.59.59:131][819]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.09-00.59.59:142][819]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-00.59.59:145][819]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-00.59.59:147][819]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-00.59.59:149][819]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-00.59.59:151][819]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-00.59.59:153][819]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-00.59.59:159][819]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.09-00.59.59:159][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.09-00.59.59:159][819]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.09-00.59.59:160][819]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.09-00.59.59:165][819]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.09.09-00.59.59:165][819]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.09-00.59.59:165][819]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.09-00.59.59:165][819]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2026.09.09-00.59.59:166][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.09-00.59.59:166][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.09-00.59.59:166][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.09-00.59.59:166][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.09.09-00.59.59:169][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.09.09-00.59.59:172][819]LogInit: FAudioDevice initialized with ID 20.
+[2026.09.09-00.59.59:172][819]LogAudio: Display: Audio Device (ID: 20) registered with world 'NewMap'.
+[2026.09.09-00.59.59:172][819]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.09.09-00.59.59:173][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-00.59.59:176][819]LogLoad: Game class is 'GM_Kart_C'
+[2026.09.09-00.59.59:176][819]LogWorld: Bringing World /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2026.09.08-21.59.59
+[2026.09.09-00.59.59:177][819]LogWorld: Bringing up level for play took: 0.000741
+[2026.09.09-00.59.59:180][819]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.09.09-00.59.59:181][819]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.09-00.59.59:192][819]LogStreaming: Display: FlushAsyncLoading(1465,1464,1463,1462,1461,1460,1459,1458,1457,1456,1455,1454,1453,1452,1451,1450,1449,1448,1447,1446,1445,1444,1443,1442,1441,1440,1439,1438,1437,1436,1435,1434,1433,1432,1431,1430,1429,1428,1427,1426,1425,1424,1423,1422): 44 QueuedPackages, 0 AsyncPackages
+[2026.09.09-00.59.59:492][819]PIE: Servidor conectado
+[2026.09.09-00.59.59:495][819]PIE: Tempo inicial total de reprodução no editor: 0,434 s
+[2026.09.09-00.59.59:581][820]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.09-01.00.22:055][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.00.22:055][152]LogWorld: BeginTearingDown for /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.00.22:067][152]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-01.00.22:067][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.00.22:067][152]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap
+[2026.09.09-01.00.22:070][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.09-01.00.22:081][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.00.22:172][152]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.09.09-01.00.22:173][152]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.09.09-01.00.22:173][152]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=20, StreamState=4
+[2026.09.09-01.00.22:181][152]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.09-01.00.22:185][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.00.22:194][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2026.09.09-01.00.22:300][153]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.09.09-01.00.50:853][694]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2026.09.09-01.00.50:869][694]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Variant_Timetrial/Maps/NewMap/A/AP/J9T7B3A0TWWGM6LTZQZ3J0_Auto8
+[2026.09.09-01.00.50:869][694]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/J9T7B3A0TWWGM6LTZQZ3J0_Auto8FCECAAB34E074B7616E731863604E7F9.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/Autosaves/Game/__ExternalActors__/Variant_Timetrial/Maps/NewMap/A/AP/J9T7B3A0TWWGM6LTZQZ3J0_Auto8.uasset'
+[2026.09.09-01.00.50:871][694]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Variant_Timetrial/Maps/NewMap' took 0.079
+[2026.09.09-01.00.50:871][694]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2026.09.09-01.01.06:411][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8938.137695
+[2026.09.09-01.01.06:652][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.09-01.01.06:653][ 94]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8938.360352, Update Interval: 320.385742
+[2026.09.09-01.01.07:743][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-01.01.07:810][147]LogFileHelpers: Saving Package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-01.01.07:810][147]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics] ([2] browsable assets)...
+[2026.09.09-01.01.07:825][147]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics]
+[2026.09.09-01.01.07:825][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics]
+[2026.09.09-01.01.07:849][147]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-01.01.07:850][147]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/BP_KartPhysics9CD8E9F74AF2ABDA0A65C0A851931F33.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/VehicleTemplate/NewCarsBP/BP_KartPhysics.uasset'
+[2026.09.09-01.01.07:867][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.275 ms (total: 14.1 sec)
+[2026.09.09-01.01.07:935][147]LogContentValidation: Enabled validators:
+[2026.09.09-01.01.07:935][147]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-01.01.07:935][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-01.01.07:935][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-01.01.07:935][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-01.01.07:935][147]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-01.01.07:935][147]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-01.01.07:935][147]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-01.01.07:935][147]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-01.01.07:935][147]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-01.01.07:935][147]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-01.01.07:935][147]LogContentValidation: Ativos adicionais adicionados para validação por validadores 0:
+[2026.09.09-01.01.07:935][147]AssetCheck: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics Validando ativo
+[2026.09.09-01.01.07:935][147]LogContentValidation: Contagem de ativos validados para validadores 9:
+[2026.09.09-01.01.07:935][147]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-01.01.07:935][147]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-01.01.07:935][147]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-01.01.07:935][147]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-01.01.07:935][147]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-01.01.07:935][147]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-01.01.07:935][147]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-01.01.07:935][147]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-01.01.07:935][147]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-01.01.08:830][188]LogBlueprint: Compiling Blueprint '/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics'
+[2026.09.09-01.01.08:948][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2026.09.09-01.01.21:133][429]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.09.09-01.01.21:142][429]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.09-01.01.21:142][429]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.09.09-01.01.21:145][429]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 2.966 ms (total: 41.694 ms)
+[2026.09.09-01.01.21:145][429]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.09-01.01.21:145][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.09-01.01.21:145][429]LogPlayLevel: Creating play world package: /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.01.21:155][429]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.09-01.01.21:155][429]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 405 us (total: 5.597 ms)
+[2026.09.09-01.01.21:156][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009699s)
+[2026.09.09-01.01.21:156][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Timetrial/Maps/NewMap.NewMap to /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap (0.009761s)
+[2026.09.09-01.01.21:202][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2026.09.09-01.01.21:206][429]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.09.09-01.01.21:208][429]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.09-01.01.21:208][429]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-01.01.21:208][429]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-01.01.21:208][429]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.09-01.01.21:211][429]LogWorldPartition: Display: WorldPartition initialize took 2.467 ms (total: 1.42 sec)
+[2026.09.09-01.01.21:211][429]LogPlayLevel: PIE: World Init took: (0.005252s)
+[2026.09.09-01.01.21:211][429]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.09.09-01.01.21:211][429]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.09-01.01.21:211][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.09-01.01.21:211][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.09-01.01.21:211][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.09-01.01.21:211][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.09-01.01.21:211][429]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.09-01.01.21:211][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.09-01.01.21:211][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.09-01.01.21:211][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.09-01.01.21:211][429]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.09-01.01.21:211][429]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.09-01.01.21:211][429]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.09-01.01.21:211][429]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.09-01.01.21:223][429]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.01.21:225][429]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.01.21:227][429]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.01.21:229][429]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.01.21:231][429]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.01.21:233][429]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.01.21:238][429]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.09-01.01.21:238][429]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.09-01.01.21:238][429]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.09-01.01.21:239][429]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.09-01.01.21:243][429]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.09.09-01.01.21:243][429]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.09-01.01.21:243][429]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.09-01.01.21:245][429]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2026.09.09-01.01.21:245][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.09-01.01.21:245][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.09-01.01.21:245][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.09-01.01.21:245][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.09.09-01.01.21:248][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.09.09-01.01.21:251][429]LogInit: FAudioDevice initialized with ID 21.
+[2026.09.09-01.01.21:251][429]LogAudio: Display: Audio Device (ID: 21) registered with world 'NewMap'.
+[2026.09.09-01.01.21:251][429]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.09.09-01.01.21:252][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.01.21:255][429]LogLoad: Game class is 'GM_Kart_C'
+[2026.09.09-01.01.21:255][429]LogWorld: Bringing World /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2026.09.08-22.01.21
+[2026.09.09-01.01.21:256][429]LogWorld: Bringing up level for play took: 0.000720
+[2026.09.09-01.01.21:259][429]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.09.09-01.01.21:260][429]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.09-01.01.21:270][429]LogStreaming: Display: FlushAsyncLoading(1509,1508,1507,1506,1505,1504,1503,1502,1501,1500,1499,1498,1497,1496,1495,1494,1493,1492,1491,1490,1489,1488,1487,1486,1485,1484,1483,1482,1481,1480,1479,1478,1477,1476,1475,1474,1473,1472,1471,1470,1469,1468,1467,1466): 44 QueuedPackages, 0 AsyncPackages
+[2026.09.09-01.01.21:552][429]PIE: Servidor conectado
+[2026.09.09-01.01.21:555][429]PIE: Tempo inicial total de reprodução no editor: 0,413 s
+[2026.09.09-01.01.21:639][430]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.09-01.01.27:176][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.01.27:176][752]LogWorld: BeginTearingDown for /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.01.27:187][752]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-01.01.27:188][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.01.27:188][752]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap
+[2026.09.09-01.01.27:191][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.09-01.01.27:201][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.01.27:290][752]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.09.09-01.01.27:290][752]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.09.09-01.01.27:290][752]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=21, StreamState=4
+[2026.09.09-01.01.27:299][752]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.09-01.01.27:302][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.01.27:313][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.09.09-01.01.27:423][753]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.09.09-01.01.36:321][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-01.01.36:382][194]LogFileHelpers: Saving Package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-01.01.36:382][194]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics] ([2] browsable assets)...
+[2026.09.09-01.01.36:398][194]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics]
+[2026.09.09-01.01.36:398][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics]
+[2026.09.09-01.01.36:424][194]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-01.01.36:425][194]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/BP_KartPhysicsEDC970344911A496C8EAD4B13D8119E1.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/VehicleTemplate/NewCarsBP/BP_KartPhysics.uasset'
+[2026.09.09-01.01.36:438][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.900 ms (total: 14.2 sec)
+[2026.09.09-01.01.36:513][194]LogContentValidation: Enabled validators:
+[2026.09.09-01.01.36:513][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-01.01.36:513][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-01.01.36:513][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-01.01.36:513][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-01.01.36:513][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-01.01.36:513][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-01.01.36:513][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-01.01.36:513][194]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-01.01.36:513][194]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-01.01.36:513][194]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-01.01.36:513][194]LogContentValidation: Ativos adicionais adicionados para validação por validadores 0:
+[2026.09.09-01.01.36:514][194]AssetCheck: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics Validando ativo
+[2026.09.09-01.01.36:514][194]LogContentValidation: Contagem de ativos validados para validadores 9:
+[2026.09.09-01.01.36:514][194]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-01.01.36:514][194]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-01.01.36:514][194]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-01.01.36:514][194]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-01.01.36:514][194]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-01.01.36:514][194]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-01.01.36:514][194]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-01.01.36:514][194]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-01.01.36:514][194]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-01.01.37:532][242]LogBlueprint: Compiling Blueprint '/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics'
+[2026.09.09-01.01.37:666][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2026.09.09-01.01.40:245][371]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.09.09-01.01.40:255][371]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.09-01.01.40:255][371]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.09.09-01.01.40:258][371]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 3.040 ms (total: 44.734 ms)
+[2026.09.09-01.01.40:258][371]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.09-01.01.40:258][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.09-01.01.40:259][371]LogPlayLevel: Creating play world package: /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.01.40:266][371]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.09-01.01.40:267][371]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 443 us (total: 6.040 ms)
+[2026.09.09-01.01.40:267][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009167s)
+[2026.09.09-01.01.40:267][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Timetrial/Maps/NewMap.NewMap to /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap (0.009215s)
+[2026.09.09-01.01.40:314][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2026.09.09-01.01.40:317][371]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.09.09-01.01.40:319][371]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.09-01.01.40:319][371]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-01.01.40:319][371]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-01.01.40:319][371]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.09-01.01.40:322][371]LogWorldPartition: Display: WorldPartition initialize took 2.706 ms (total: 1.42 sec)
+[2026.09.09-01.01.40:322][371]LogPlayLevel: PIE: World Init took: (0.005564s)
+[2026.09.09-01.01.40:322][371]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.09.09-01.01.40:322][371]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.09-01.01.40:322][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.09-01.01.40:322][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.09-01.01.40:322][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.09-01.01.40:322][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.09-01.01.40:322][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.09-01.01.40:322][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.09-01.01.40:322][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.09-01.01.40:322][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.09-01.01.40:322][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.09-01.01.40:322][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.09-01.01.40:322][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.09-01.01.40:322][371]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.09-01.01.40:334][371]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.01.40:336][371]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.01.40:338][371]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.01.40:340][371]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.01.40:342][371]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.01.40:344][371]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.01.40:350][371]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.09-01.01.40:350][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.09-01.01.40:350][371]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.09-01.01.40:351][371]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.09-01.01.40:356][371]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.09.09-01.01.40:356][371]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.09-01.01.40:356][371]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.09-01.01.40:356][371]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2026.09.09-01.01.40:356][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.09-01.01.40:356][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.09-01.01.40:356][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.09-01.01.40:356][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.09.09-01.01.40:359][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.09.09-01.01.40:362][371]LogInit: FAudioDevice initialized with ID 22.
+[2026.09.09-01.01.40:362][371]LogAudio: Display: Audio Device (ID: 22) registered with world 'NewMap'.
+[2026.09.09-01.01.40:362][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.09.09-01.01.40:363][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.01.40:367][371]LogLoad: Game class is 'GM_Kart_C'
+[2026.09.09-01.01.40:368][371]LogWorld: Bringing World /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2026.09.08-22.01.40
+[2026.09.09-01.01.40:368][371]LogWorld: Bringing up level for play took: 0.000776
+[2026.09.09-01.01.40:371][371]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.09.09-01.01.40:372][371]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.09-01.01.40:382][371]LogStreaming: Display: FlushAsyncLoading(1553,1552,1551,1550,1549,1548,1547,1546,1545,1544,1543,1542,1541,1540,1539,1538,1537,1536,1535,1534,1533,1532,1531,1530,1529,1528,1527,1526,1525,1524,1523,1522,1521,1520,1519,1518,1517,1516,1515,1514,1513,1512,1511,1510): 44 QueuedPackages, 0 AsyncPackages
+[2026.09.09-01.01.40:663][371]PIE: Servidor conectado
+[2026.09.09-01.01.40:667][371]PIE: Tempo inicial total de reprodução no editor: 0,412 s
+[2026.09.09-01.01.40:766][372]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.09-01.01.47:987][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.01.47:987][794]LogWorld: BeginTearingDown for /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.01.47:998][794]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-01.01.47:998][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.01.47:998][794]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap
+[2026.09.09-01.01.48:002][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.09-01.01.48:013][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.01.48:109][794]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.09.09-01.01.48:109][794]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.09.09-01.01.48:110][794]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=22, StreamState=4
+[2026.09.09-01.01.48:118][794]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.09-01.01.48:121][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.01.48:132][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.09.09-01.01.48:248][795]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.09.09-01.02.02:614][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-01.02.02:684][438]LogFileHelpers: Saving Package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-01.02.02:684][438]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics] ([2] browsable assets)...
+[2026.09.09-01.02.02:702][438]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics]
+[2026.09.09-01.02.02:703][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics]
+[2026.09.09-01.02.02:727][438]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-01.02.02:728][438]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/BP_KartPhysics7DB187334825519DCB7692BAA44BDDBF.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/VehicleTemplate/NewCarsBP/BP_KartPhysics.uasset'
+[2026.09.09-01.02.02:740][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.097 ms (total: 14.3 sec)
+[2026.09.09-01.02.02:807][438]LogContentValidation: Enabled validators:
+[2026.09.09-01.02.02:807][438]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-01.02.02:807][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-01.02.02:807][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-01.02.02:807][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-01.02.02:807][438]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-01.02.02:807][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-01.02.02:807][438]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-01.02.02:807][438]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-01.02.02:807][438]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-01.02.02:807][438]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-01.02.02:807][438]LogContentValidation: Ativos adicionais adicionados para validação por validadores 0:
+[2026.09.09-01.02.02:807][438]AssetCheck: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics Validando ativo
+[2026.09.09-01.02.02:807][438]LogContentValidation: Contagem de ativos validados para validadores 9:
+[2026.09.09-01.02.02:807][438]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-01.02.02:807][438]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-01.02.02:807][438]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-01.02.02:807][438]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-01.02.02:807][438]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-01.02.02:807][438]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-01.02.02:807][438]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-01.02.02:808][438]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-01.02.02:808][438]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-01.02.04:122][495]LogBlueprint: Compiling Blueprint '/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics'
+[2026.09.09-01.02.04:253][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2026.09.09-01.02.07:491][658]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.09.09-01.02.07:501][658]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.09-01.02.07:501][658]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.09.09-01.02.07:504][658]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 3.238 ms (total: 47.972 ms)
+[2026.09.09-01.02.07:504][658]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.09-01.02.07:504][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.09-01.02.07:504][658]LogPlayLevel: Creating play world package: /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.02.07:513][658]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.09-01.02.07:514][658]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 434 us (total: 6.474 ms)
+[2026.09.09-01.02.07:514][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010065s)
+[2026.09.09-01.02.07:514][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Timetrial/Maps/NewMap.NewMap to /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap (0.010121s)
+[2026.09.09-01.02.07:564][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2026.09.09-01.02.07:568][658]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.09.09-01.02.07:570][658]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.09-01.02.07:570][658]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-01.02.07:570][658]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-01.02.07:570][658]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.09-01.02.07:573][658]LogWorldPartition: Display: WorldPartition initialize took 2.683 ms (total: 1.42 sec)
+[2026.09.09-01.02.07:573][658]LogPlayLevel: PIE: World Init took: (0.005472s)
+[2026.09.09-01.02.07:573][658]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.09.09-01.02.07:573][658]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.09-01.02.07:573][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.09-01.02.07:573][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.09-01.02.07:573][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.09-01.02.07:573][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.09-01.02.07:573][658]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.09-01.02.07:573][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.09-01.02.07:574][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.09-01.02.07:574][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.09-01.02.07:574][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.09-01.02.07:574][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.09-01.02.07:574][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.09-01.02.07:574][658]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.09-01.02.07:588][658]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.02.07:589][658]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.02.07:592][658]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.02.07:594][658]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.02.07:598][658]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.02.07:600][658]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.02.07:606][658]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.09-01.02.07:606][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.09-01.02.07:606][658]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.09-01.02.07:607][658]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.09-01.02.07:612][658]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.09.09-01.02.07:613][658]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.09-01.02.07:613][658]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.09-01.02.07:613][658]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2026.09.09-01.02.07:613][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.09-01.02.07:613][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.09-01.02.07:613][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.09-01.02.07:613][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.09.09-01.02.07:616][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.09.09-01.02.07:618][658]LogInit: FAudioDevice initialized with ID 23.
+[2026.09.09-01.02.07:620][658]LogAudio: Display: Audio Device (ID: 23) registered with world 'NewMap'.
+[2026.09.09-01.02.07:620][658]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.09.09-01.02.07:620][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.02.07:624][658]LogLoad: Game class is 'GM_Kart_C'
+[2026.09.09-01.02.07:624][658]LogWorld: Bringing World /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2026.09.08-22.02.07
+[2026.09.09-01.02.07:624][658]LogWorld: Bringing up level for play took: 0.000725
+[2026.09.09-01.02.07:628][658]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.09.09-01.02.07:629][658]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.09-01.02.07:639][658]LogStreaming: Display: FlushAsyncLoading(1597,1596,1595,1594,1593,1592,1591,1590,1589,1588,1587,1586,1585,1584,1583,1582,1581,1580,1579,1578,1577,1576,1575,1574,1573,1572,1571,1570,1569,1568,1567,1566,1565,1564,1563,1562,1561,1560,1559,1558,1557,1556,1555,1554): 44 QueuedPackages, 0 AsyncPackages
+[2026.09.09-01.02.07:960][658]PIE: Servidor conectado
+[2026.09.09-01.02.07:963][658]PIE: Tempo inicial total de reprodução no editor: 0,463 s
+[2026.09.09-01.02.08:062][659]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.09-01.02.25:857][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.02.25:857][712]LogWorld: BeginTearingDown for /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.02.25:867][712]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-01.02.25:868][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.02.25:868][712]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap
+[2026.09.09-01.02.25:870][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.09-01.02.25:881][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.02.25:966][712]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.09.09-01.02.25:966][712]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.09.09-01.02.25:966][712]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=23, StreamState=4
+[2026.09.09-01.02.25:976][712]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.09-01.02.25:980][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.02.25:989][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.09.09-01.02.26:096][713]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.09.09-01.04.20:112][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-01.04.20:170][255]LogFileHelpers: Saving Package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-01.04.20:170][255]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics] ([2] browsable assets)...
+[2026.09.09-01.04.20:184][255]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics]
+[2026.09.09-01.04.20:184][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics]
+[2026.09.09-01.04.20:210][255]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-01.04.20:210][255]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/BP_KartPhysics086DB7AA4404330547FB268958C58581.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/VehicleTemplate/NewCarsBP/BP_KartPhysics.uasset'
+[2026.09.09-01.04.20:221][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.505 ms (total: 14.4 sec)
+[2026.09.09-01.04.20:289][255]LogContentValidation: Enabled validators:
+[2026.09.09-01.04.20:289][255]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-01.04.20:289][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-01.04.20:289][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-01.04.20:289][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-01.04.20:289][255]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-01.04.20:289][255]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-01.04.20:289][255]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-01.04.20:289][255]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-01.04.20:289][255]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-01.04.20:289][255]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-01.04.20:289][255]LogContentValidation: Ativos adicionais adicionados para validação por validadores 0:
+[2026.09.09-01.04.20:289][255]AssetCheck: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics Validando ativo
+[2026.09.09-01.04.20:289][255]LogContentValidation: Contagem de ativos validados para validadores 9:
+[2026.09.09-01.04.20:290][255]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-01.04.20:290][255]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-01.04.20:290][255]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-01.04.20:290][255]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-01.04.20:290][255]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-01.04.20:290][255]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-01.04.20:290][255]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-01.04.20:290][255]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-01.04.20:290][255]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-01.04.21:142][293]LogBlueprint: Compiling Blueprint '/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics'
+[2026.09.09-01.04.21:266][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2026.09.09-01.04.26:261][526]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.09.09-01.04.26:271][526]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.09-01.04.26:271][526]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.09.09-01.04.26:274][526]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 2.845 ms (total: 50.817 ms)
+[2026.09.09-01.04.26:274][526]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.09-01.04.26:274][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.09-01.04.26:274][526]LogPlayLevel: Creating play world package: /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.04.26:283][526]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.09-01.04.26:283][526]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 424 us (total: 6.899 ms)
+[2026.09.09-01.04.26:284][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008894s)
+[2026.09.09-01.04.26:284][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Timetrial/Maps/NewMap.NewMap to /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap (0.008942s)
+[2026.09.09-01.04.26:331][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2026.09.09-01.04.26:335][526]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.09.09-01.04.26:337][526]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.09-01.04.26:337][526]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-01.04.26:337][526]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-01.04.26:337][526]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.09-01.04.26:339][526]LogWorldPartition: Display: WorldPartition initialize took 2.453 ms (total: 1.42 sec)
+[2026.09.09-01.04.26:339][526]LogPlayLevel: PIE: World Init took: (0.005373s)
+[2026.09.09-01.04.26:339][526]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.09.09-01.04.26:339][526]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.09-01.04.26:340][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.09-01.04.26:340][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.09-01.04.26:340][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.09-01.04.26:340][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.09-01.04.26:340][526]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.09-01.04.26:340][526]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.09-01.04.26:340][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.09-01.04.26:340][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.09-01.04.26:340][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.09-01.04.26:340][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.09-01.04.26:340][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.09-01.04.26:340][526]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.09-01.04.26:352][526]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.04.26:354][526]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.04.26:356][526]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.04.26:357][526]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.04.26:360][526]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.04.26:361][526]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.04.26:368][526]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.09-01.04.26:368][526]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.09-01.04.26:368][526]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.09-01.04.26:369][526]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.09-01.04.26:374][526]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.09.09-01.04.26:374][526]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.09-01.04.26:374][526]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.09-01.04.26:374][526]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2026.09.09-01.04.26:375][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.09-01.04.26:375][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.09-01.04.26:375][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.09-01.04.26:375][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.09.09-01.04.26:378][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.09.09-01.04.26:381][526]LogInit: FAudioDevice initialized with ID 24.
+[2026.09.09-01.04.26:381][526]LogAudio: Display: Audio Device (ID: 24) registered with world 'NewMap'.
+[2026.09.09-01.04.26:381][526]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.09.09-01.04.26:381][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.04.26:385][526]LogLoad: Game class is 'GM_Kart_C'
+[2026.09.09-01.04.26:386][526]LogWorld: Bringing World /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2026.09.08-22.04.26
+[2026.09.09-01.04.26:386][526]LogWorld: Bringing up level for play took: 0.000751
+[2026.09.09-01.04.26:390][526]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.09.09-01.04.26:391][526]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.09-01.04.26:401][526]LogStreaming: Display: FlushAsyncLoading(1641,1640,1639,1638,1637,1636,1635,1634,1633,1632,1631,1630,1629,1628,1627,1626,1625,1624,1623,1622,1621,1620,1619,1618,1617,1616,1615,1614,1613,1612,1611,1610,1609,1608,1607,1606,1605,1604,1603,1602,1601,1600,1599,1598): 44 QueuedPackages, 0 AsyncPackages
+[2026.09.09-01.04.26:697][526]PIE: Servidor conectado
+[2026.09.09-01.04.26:699][526]PIE: Tempo inicial total de reprodução no editor: 0,428 s
+[2026.09.09-01.04.26:788][527]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.09-01.04.43:080][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.04.43:080][489]LogWorld: BeginTearingDown for /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.04.43:093][489]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-01.04.43:093][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.04.43:093][489]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap
+[2026.09.09-01.04.43:096][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.09-01.04.43:108][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.04.43:208][489]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.09.09-01.04.43:208][489]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.09.09-01.04.43:208][489]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=24, StreamState=4
+[2026.09.09-01.04.43:217][489]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.09-01.04.43:224][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.04.43:236][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2026.09.09-01.04.43:343][490]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: ================================================
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Total job queries 1.006, among them cache hits 639 (63.52%), DDC hits 294 (29.22%), Duplicates 27 (2.68%)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Tracking 340 distinct input hashes that result in 240 distinct outputs (70.59%)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: RAM used: 3,38 MiB of 819,20 MiB budget. Usage: 0.41%
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Shaders Compiled: 46
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Jobs assigned 46, completed 46 (100%)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Average time worker was idle: 486.00 s
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.41 s
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Job execution time: average 1.86 s, max 3.78 s
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Job life time (pending + execution): average 2.00 s, max 3.87
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Shader code size: total 425,822 KiB, numShaders 46, average 9,257 KiB, min 2,105 KiB, max 25,527 KiB
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.29 s
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Jobs were issued in 41 batches (only local compilation was used), average 1.12 jobs/batch
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Average processing rate: 3.22 jobs/sec
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Total thread time: 38,98 s
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Total thread preprocess time: 31,851 s
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Percentage time preprocessing: 81.71%
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Effective parallelization: 2.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.341041
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 2.42 sec, max 2.62 sec, min 2.23 sec)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.21 sec, max 2.21 sec, min 2.21 sec)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 2.11 sec, max 2.17 sec, min 2.05 sec)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.58 sec, max 1.71 sec, min 1.33 sec)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display:                                                 FLumenCardPS - 19.49% of total time (compiled   11 times, average 0.69 sec, max 0.95 sec, min 0.36 sec)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.85% of total time (compiled   10 times, average 0.54 sec, max 0.72 sec, min 0.33 sec)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.43% of total time (compiled    2 times, average 2.42 sec, max 2.62 sec, min 2.23 sec)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.18% of total time (compiled    3 times, average 1.58 sec, max 1.71 sec, min 1.33 sec)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.82% of total time (compiled    2 times, average 2.11 sec, max 2.17 sec, min 2.05 sec)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: === Material stats ===
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Materials Translated:    189
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Material Translation Only: 0.09 s (53%)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.09.09-01.05.18:514][716]LogShaderCompilers: Display: Material Cache Hits: 35 (19%)
+[2026.09.09-01.05.18:515][716]LogShaderCompilers: Display: ================================================
+[2026.09.09-01.06.25:440][263]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.09.09-01.06.25:449][263]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.09-01.06.25:449][263]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.09.09-01.06.25:453][263]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 2.528 ms (total: 53.346 ms)
+[2026.09.09-01.06.25:453][263]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.09-01.06.25:453][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.09-01.06.25:453][263]LogPlayLevel: Creating play world package: /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.06.25:460][263]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.09-01.06.25:461][263]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 395 us (total: 7.295 ms)
+[2026.09.09-01.06.25:461][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008516s)
+[2026.09.09-01.06.25:461][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Timetrial/Maps/NewMap.NewMap to /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap (0.008561s)
+[2026.09.09-01.06.25:509][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.09.09-01.06.25:511][263]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.09.09-01.06.25:514][263]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.09-01.06.25:514][263]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-01.06.25:514][263]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-01.06.25:514][263]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.09-01.06.25:516][263]LogWorldPartition: Display: WorldPartition initialize took 2.258 ms (total: 1.43 sec)
+[2026.09.09-01.06.25:516][263]LogPlayLevel: PIE: World Init took: (0.004812s)
+[2026.09.09-01.06.25:516][263]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.09.09-01.06.25:516][263]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.09-01.06.25:516][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.09-01.06.25:516][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.09-01.06.25:516][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.09-01.06.25:516][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.09-01.06.25:516][263]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.09-01.06.25:516][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.09-01.06.25:516][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.09-01.06.25:516][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.09-01.06.25:516][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.09-01.06.25:516][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.09-01.06.25:516][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.09-01.06.25:516][263]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.09-01.06.25:528][263]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.06.25:530][263]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.06.25:532][263]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.06.25:534][263]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.06.25:536][263]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.06.25:538][263]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.06.25:544][263]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.09-01.06.25:544][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.09-01.06.25:544][263]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.09-01.06.25:546][263]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.09-01.06.25:550][263]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.09.09-01.06.25:550][263]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.09-01.06.25:550][263]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.09-01.06.25:551][263]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2026.09.09-01.06.25:551][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.09-01.06.25:551][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.09-01.06.25:551][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.09-01.06.25:551][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.09.09-01.06.25:554][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.09.09-01.06.25:558][263]LogInit: FAudioDevice initialized with ID 25.
+[2026.09.09-01.06.25:558][263]LogAudio: Display: Audio Device (ID: 25) registered with world 'NewMap'.
+[2026.09.09-01.06.25:558][263]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.09.09-01.06.25:558][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.06.25:562][263]LogLoad: Game class is 'GM_Kart_C'
+[2026.09.09-01.06.25:563][263]LogWorld: Bringing World /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2026.09.08-22.06.25
+[2026.09.09-01.06.25:564][263]LogWorld: Bringing up level for play took: 0.000737
+[2026.09.09-01.06.25:566][263]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.09.09-01.06.25:567][263]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.09-01.06.25:578][263]LogStreaming: Display: FlushAsyncLoading(1685,1684,1683,1682,1681,1680,1679,1678,1677,1676,1675,1674,1673,1672,1671,1670,1669,1668,1667,1666,1665,1664,1663,1662,1661,1660,1659,1658,1657,1656,1655,1654,1653,1652,1651,1650,1649,1648,1647,1646,1645,1644,1643,1642): 44 QueuedPackages, 0 AsyncPackages
+[2026.09.09-01.06.25:846][263]PIE: Servidor conectado
+[2026.09.09-01.06.25:848][263]PIE: Tempo inicial total de reprodução no editor: 0,399 s
+[2026.09.09-01.06.25:924][264]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.09-01.06.30:561][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.06.30:561][532]LogWorld: BeginTearingDown for /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.06.30:570][532]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-01.06.30:570][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.06.30:572][532]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap
+[2026.09.09-01.06.30:574][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.09-01.06.30:585][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.06.30:668][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.06.30:668][532]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.09.09-01.06.30:668][532]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=25, StreamState=4
+[2026.09.09-01.06.30:678][532]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.09-01.06.30:692][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2026.09.09-01.06.30:788][533]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.09.09-01.06.41:686][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.09-01.06.41:752][ 78]LogFileHelpers: Saving Package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-01.06.41:752][ 78]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics] ([2] browsable assets)...
+[2026.09.09-01.06.41:766][ 78]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics]
+[2026.09.09-01.06.41:766][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics]
+[2026.09.09-01.06.41:791][ 78]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics
+[2026.09.09-01.06.41:792][ 78]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Saved/BP_KartPhysics40F482C549769551D0EBDDBDB5901EB6.tmp' to '../../../../../../Users/mathe/Documents/Unreal Projects/trabalho1_programacao2/Trabalho1/Content/VehicleTemplate/NewCarsBP/BP_KartPhysics.uasset'
+[2026.09.09-01.06.41:806][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.635 ms (total: 14.6 sec)
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: Enabled validators:
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.09.09-01.06.41:891][ 78]LogContentValidation: Ativos adicionais adicionados para validação por validadores 0:
+[2026.09.09-01.06.41:891][ 78]AssetCheck: /Game/VehicleTemplate/NewCarsBP/BP_KartPhysics Validando ativo
+[2026.09.09-01.06.41:892][ 78]LogContentValidation: Contagem de ativos validados para validadores 9:
+[2026.09.09-01.06.41:892][ 78]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.09.09-01.06.41:892][ 78]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.09.09-01.06.41:892][ 78]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.09.09-01.06.41:892][ 78]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.09.09-01.06.41:892][ 78]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.09.09-01.06.41:892][ 78]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.09.09-01.06.41:892][ 78]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.09.09-01.06.41:892][ 78]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.09.09-01.06.41:892][ 78]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.09.09-01.06.42:760][117]LogBlueprint: Compiling Blueprint '/Game/VehicleTemplate/NewCarsBP/BP_KartPhysics.BP_KartPhysics'
+[2026.09.09-01.06.42:875][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2026.09.09-01.06.45:347][240]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2026.09.09-01.06.45:355][240]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.09-01.06.45:355][240]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.09.09-01.06.45:357][240]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 2.460 ms (total: 55.806 ms)
+[2026.09.09-01.06.45:358][240]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.09.09-01.06.45:358][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.09-01.06.45:358][240]LogPlayLevel: Creating play world package: /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.06.45:367][240]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.09-01.06.45:367][240]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 445 us (total: 7.740 ms)
+[2026.09.09-01.06.45:367][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009126s)
+[2026.09.09-01.06.45:368][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Timetrial/Maps/NewMap.NewMap to /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap (0.009170s)
+[2026.09.09-01.06.45:410][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.09.09-01.06.45:413][240]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.09.09-01.06.45:415][240]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.09-01.06.45:415][240]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.09-01.06.45:415][240]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.09-01.06.45:415][240]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.09-01.06.45:418][240]LogWorldPartition: Display: WorldPartition initialize took 2.509 ms (total: 1.43 sec)
+[2026.09.09-01.06.45:418][240]LogPlayLevel: PIE: World Init took: (0.005146s)
+[2026.09.09-01.06.45:418][240]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.09.09-01.06.45:418][240]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.09.09-01.06.45:418][240]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.09-01.06.45:418][240]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.09-01.06.45:418][240]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.09-01.06.45:418][240]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.09-01.06.45:418][240]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.09-01.06.45:418][240]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.09-01.06.45:418][240]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.09-01.06.45:418][240]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.09-01.06.45:418][240]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.09-01.06.45:418][240]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.09-01.06.45:418][240]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.09-01.06.45:418][240]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.09.09-01.06.45:432][240]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.06.45:434][240]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.06.45:437][240]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.06.45:438][240]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.06.45:441][240]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers/Headphones (Realtek(R) Audio)'
+[2026.09.09-01.06.45:443][240]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (Realtek(R) Audio)'
+[2026.09.09-01.06.45:448][240]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.09.09-01.06.45:448][240]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.09.09-01.06.45:448][240]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.09.09-01.06.45:450][240]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.09.09-01.06.45:455][240]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.09.09-01.06.45:455][240]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.09.09-01.06.45:456][240]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.09.09-01.06.45:456][240]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2026.09.09-01.06.45:456][240]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.09-01.06.45:456][240]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.09-01.06.45:456][240]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.09-01.06.45:456][240]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.09.09-01.06.45:459][240]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.09.09-01.06.45:462][240]LogInit: FAudioDevice initialized with ID 26.
+[2026.09.09-01.06.45:462][240]LogAudio: Display: Audio Device (ID: 26) registered with world 'NewMap'.
+[2026.09.09-01.06.45:462][240]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.09.09-01.06.45:462][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.06.45:466][240]LogLoad: Game class is 'GM_Kart_C'
+[2026.09.09-01.06.45:467][240]LogWorld: Bringing World /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2026.09.08-22.06.45
+[2026.09.09-01.06.45:467][240]LogWorld: Bringing up level for play took: 0.000713
+[2026.09.09-01.06.45:471][240]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.09.09-01.06.45:471][240]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.09.09-01.06.45:481][240]LogStreaming: Display: FlushAsyncLoading(1729,1728,1727,1726,1725,1724,1723,1722,1721,1720,1719,1718,1717,1716,1715,1714,1713,1712,1711,1710,1709,1708,1707,1706,1705,1704,1703,1702,1701,1700,1699,1698,1697,1696,1695,1694,1693,1692,1691,1690,1689,1688,1687,1686): 44 QueuedPackages, 0 AsyncPackages
+[2026.09.09-01.06.45:775][240]PIE: Servidor conectado
+[2026.09.09-01.06.45:777][240]PIE: Tempo inicial total de reprodução no editor: 0,422 s
+[2026.09.09-01.06.45:864][241]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.09-01.07.02:602][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.07.02:602][235]LogWorld: BeginTearingDown for /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap
+[2026.09.09-01.07.02:614][235]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.09.09-01.07.02:614][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.07.02:615][235]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Timetrial/Maps/UEDPIE_0_NewMap.NewMap
+[2026.09.09-01.07.02:617][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.09-01.07.02:629][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.09-01.07.02:731][235]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.09.09-01.07.02:731][235]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.09.09-01.07.02:732][235]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=26, StreamState=4
+[2026.09.09-01.07.02:740][235]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.09.09-01.07.02:743][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.09-01.07.02:753][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.09.09-01.07.02:852][236]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.09.09-01.07.23:565][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9315.294922
+[2026.09.09-01.07.24:566][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.09-01.07.24:566][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9315.962891, Update Interval: 301.605896
